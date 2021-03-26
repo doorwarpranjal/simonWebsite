@@ -3277,3 +3277,16 @@ align-items: center;
       font-size: 70px;
       color: white;
     }
+
+
+    @media (max-width: 767px) {
+
+      .main-image-div{
+        height: 50vh;
+        background-size: contain;
+        
+      }
+
+    }
+
+  
